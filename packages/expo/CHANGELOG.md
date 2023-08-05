@@ -12,6 +12,7 @@
 
 - Removed the environment validator. ([#23732](https://github.com/expo/expo/pull/23732) by [@tsapeta](https://github.com/tsapeta))
 - Removed the dependency on the `expo-constants` package. ([#23732](https://github.com/expo/expo/pull/23732) by [@tsapeta](https://github.com/tsapeta))
+- Removed the dependency on the `expo-asset` package. ([#23361](https://github.com/expo/expo/pull/23361) by [@tsapeta](https://github.com/tsapeta))
 
 ## 50.0.0-alpha.1 — 2023-08-02
 
@@ -30,7 +31,6 @@
 ### 💡 Others
 
 - Fork `uuid@3.4.0` and move into `expo-modules-core`. Remove the original dependency. ([#23249](https://github.com/expo/expo/pull/23249) by [@alanhughes](https://github.com/alanjhughes))
-- Remove `expo-asset` from required dependencies. ([#23361](https://github.com/expo/expo/pull/23361) by [@tsapeta](https://github.com/tsapeta))
 
 ## 49.0.3 — 2023-07-12
 
